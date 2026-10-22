@@ -4,3 +4,5 @@
 #mapHint{z-index:3}.buttons #fogBrush.active{background:#80633a;border-color:#edcf83;color:#fff1c8}.buttons #fogReset{border-color:#70534c;color:#e5b3a4}.buttons #fogReset:hover{border-color:#d98b76;color:#ffe0d4}
 
 .buttons select{padding:8px 10px;border-radius:5px;border:1px solid #53644f;background:#263a31;color:#eee8d9;font:11px system-ui;max-width:180px}.buttons select:focus{outline:1px solid #d9b76b}
+
+@media(min-width:781px){#stage{flex:0 0 auto;height:62vh;min-height:470px;max-height:760px}}
